@@ -1,0 +1,31 @@
+{
+  "name": "layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosDeva/Bs5Wp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosDeva/Bs5Wp/issues"
+  },
+  "homepage": "https://github.com/MarcosDeva/Bs5Wp#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "browser-sync": "^2.27.7",
+    "feather-icons": "^4.28.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.48.0"
+  }
+}
